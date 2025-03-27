@@ -1,0 +1,2 @@
+select entries where avg_bpm > 150
+select entries where age >= 29 AND max_bpm <= 170 and Experience_Level = 3
